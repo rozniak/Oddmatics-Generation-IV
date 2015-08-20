@@ -1,22 +1,29 @@
-Oddmatics Generation IV
----
-Copyright (c) 2015 Oddmatics (http://www.oddmatics.co.uk)
+# Oddmatics Generation IV
+This is the repository where the next generation of the Oddmatics website will be kept in future.
 
-This project is under the Creative Commons Attribution 4.0 International licence.
-http://creativecommons.org/licenses/by/4.0/legalcode
+# Aims of the next release
+The next generation of Oddmatics will focus on these points:
 
-This is a human-readable summary of (and not a substitute for) the license:
+--> Interesting graphical design - The site will be split into distinct sections matched with their own unique colour scheme and artwork. Content will be shown in less opaque boxes and compliment the backdrop.
 
-You are free to:
+--> Non-static backdrops - Alongside the colour schemes and artworks, each background will be made up of layers, and *subtly* animated with CSS.
 
-    Share — copy and redistribute the material in any medium or format
-    Adapt — remix, transform, and build upon the material
-    for any purpose, even commercially.
+--> Better layout - A better interface, featuring fixed panels so that no intense scrolling is needed, and reduced clutter on pages that a sidebar doesn't need to exist on.
 
-    The licensor cannot revoke these freedoms as long as you follow the license terms.
+--> More interactivity - Softer transitions for hovers, changing between pages and more page features. Basically, there'll be a lot more CSS and Javascript more fancy-schmancy things on this one.
 
-Under the following terms:
+--> Cleaner code - The aim of releasing this version's entire design and things is to result in emphasis on clean code, and less hotfixes to bad design choices. Generation III suffers a lot from this (try and pick out how bad the columns are done, really unnecessarily bad).
 
-    Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+--> Minimiser - I'll most likely release a program to automatically minimise the markup for this release, the page source won't be viewable nicely afterwards of course, but you can see it here anyway if you really want to.
 
-    No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+# Coming soon
+A general design *has* been roughly completed, though the planned release date might not be for a while yet (I'll shove all the code up here once it's done and dusted)
+
+# Thanks for checking this out
+Even though it's not finished; thanks for checking this page out anyway. You'll be able to tell when the final result and things are complete from visiting the site itself (I'll make posts on its progress anyway)
+
+You can find the *current* live site here: http://www.oddmatics.co.uk
+
+Cheerio,
+
+rozza/rozniak
