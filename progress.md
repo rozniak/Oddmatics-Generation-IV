@@ -1,8 +1,13 @@
 # Oddmatics Generation IV Progress
 This file is here to track where progress is with the new Oddmatics Generation before it's pushed to Github.
 
-- [X] Design site sections (Home, Projects, News, Archive, About, Contact)
-- [ ] Compose colour schemes for sections
+- [X] Design site section - Home
+- [X] Design site section - Projects
+- [X] Design site section - News
+- [X] Design site section - Archive
+- [X] Design site section - About
+- [X] Design site section - Contact
+- [X] Compose colour schemes for sections
 - [ ] Write up descriptions/metadata and static content
 - [X] Background artwork - Home
 - [ ] Background artwork - Projects
@@ -11,7 +16,7 @@ This file is here to track where progress is with the new Oddmatics Generation b
 - [ ] Background artwork - About
 - [ ] Background artwork - Contact
 - [ ] Audio Ambience (?)
-- [ ] CSS Animations - Home
+- [X] CSS Animations - Home
 - [ ] CSS Animations - Projects
 - [ ] CSS Animations - News
 - [ ] CSS Animations - Archive
