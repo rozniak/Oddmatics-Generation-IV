@@ -1,6 +1,12 @@
 # Oddmatics Generation IV
 This is the repository where the next generation of the Oddmatics website will be kept in future.
 
+# Live preview
+As with previous releases, an in-progress design test concept of the next generation is live here:
+http://cheeky.oddmatics.co.uk/v4/
+
+Be aware that URLs must be entered manually for the time being.
+
 # Aims of the next release
 The next generation of Oddmatics will focus on these points:
 
