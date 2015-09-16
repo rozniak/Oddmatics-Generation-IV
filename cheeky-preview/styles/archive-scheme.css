@@ -1,0 +1,31 @@
+﻿/**
+ * Border colours
+ */
+div.css-selection-panel-box-top, div.css-selection-panel-box-space-tall, div.css-selection-panel-box-box, div.css-selection-panel-box-space-bottom, div.css-selection-panel-box-bottom, div.css-detail-panel-box-top, div.css-detail-panel-box-space-tall, div.css-detail-panel-box-box, div.css-detail-panel-box-space-bottom, div.css-detail-panel-box-bottom, div.css-selection-panel-box-box h2, div.css-detail-panel-box-box h2, #css-special-detail-infostrip, #css-special-detail-status, #css-special-detail-languages, span.css-detail-section-link, span.css-detail-launch-link, div.css-detail-panel-box-box h3, img.css-img-left, img.css-img-right
+{
+    border-color: rgba(224, 160, 224, 0.6);
+}
+
+/**
+ * Font colours
+ */
+#css-special-select-tag-headings, span.css-view-details:hover, span.css-view-details:hover *, div.css-selection-panel-box-box li:hover *, span.css-special-detail-defaultinfoitem, span.css-special-detail-lastinfoitem
+{
+    color: #E8E;
+}
+
+/**
+ * Background colours
+ */
+span.css-detail-section-link:hover, span.css-detail-launch-link:hover
+{
+    background: rgba(224, 160, 224, 0.2);
+}
+
+/**
+ * Backdrop static image
+ */
+#css-body-backdrop-image
+{
+    background-image: url('/v4/images/site-ui/backdrop-archive.jpg');
+}

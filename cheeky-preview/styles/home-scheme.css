@@ -1,0 +1,31 @@
+﻿/**
+ * Border colours
+ */
+#css-content-panel-column hr, div.css-content-panel-post-top, div.css-content-panel-post-date, div.css-content-panel-post-display, div.css-content-panel-post-space-tall, div.css-content-panel-post-box, div.css-content-panel-post-space-bottom, div.css-content-panel-post-bottom-noperm, div.css-content-panel-post-bottom-perm, div.css-content-panel-post-perm, div.css-content-panel-post-box h2, div.css-sidebar-panel-post-top, div.css-sidebar-panel-post-display, div.css-sidebar-panel-post-space-tall, div.css-sidebar-panel-post-box, div.css-sidebar-panel-post-space-bottom, div.css-sidebar-panel-post-bottom, #css-sidebar-recent h2, #css-sidebar-updates h2
+{
+    border-color: rgba(0, 255, 0, 0.5);
+}
+
+/**
+ * Font colours
+ */
+span.css-title-permalink:hover, span.css-view-details:hover, span.css-view-details:hover *, div.css-sidebar-button:hover
+{
+    color: #0F0;
+}
+
+/**
+ * Background colours
+ */
+div.css-content-panel-post-display:hover, div.css-content-panel-post-perm:hover, div.css-sidebar-panel-post-display:hover
+{
+    background: rgba(0, 255, 0, 0.1);
+}
+
+/**
+ * Backdrop static image
+ */
+#css-body-backdrop-image
+{
+    background-image: url('/v4/images/site-ui/backdrop-home.jpg');
+}
