@@ -66,9 +66,16 @@
                  --><div class="css-detail-panel-box-box">
                         <h2>Us - Alex Marlow</h2>
                         <p id="css-special-detail-infostrip">Responsible for: <span class="css-special-detail-lastinfoitem">Artwork Direction, Storywriting, Gameplay Design, Testing, Review</span></p>
-                        
-                        <p>This section is about Alex, also known as 'Alex the Ideas-man Guy', and also like 90 other things. He's basically the super creative half, because he has that childish creativity that makes everything amazing.</p>
-                        <p>And in future when we're in the Washing-of-Ton, he'll be 'Alex the Codemaster Guy' and 'Alex the Audiophile Guy'.</p>
+                        <p>Test section body, no lorum ipsum is necessary because language looks vaguely natural when typing about total rubbish, and you can probably imagine some genuine writing taking place here.</p>
+                        <p>Out of interest, there's nothing interesting, instead only words that mean nothing other than for purposes that are only temporary in the line of existence.</p>
+                        <p>If we look at the facts, the following things have been done to improve mankind:</p>
+                        <ul>
+                            <li>Raichus in every party</li>
+                            <li>Marquee tags</li>
+                            <li>Karamel Sutra by Ben and Jezza's</li>
+                            <li>Advent calendars</li>
+                        </ul>
+                        <p>Features are simple to implement, the meaning of life is not.</p>
                         <span id="css-float-clear"></span>
                     </div><!--
                  --><div class="css-detail-panel-box-space-tall"></div><!--
