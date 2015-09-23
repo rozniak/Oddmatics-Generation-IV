@@ -1,6 +1,6 @@
 Oddmatics Generation IV
 ---
-Copyright (c) 2015 Oddmatics (http://www.oddmatics.co.uk)
+Copyright (c) 2015 Oddmatics (http://www.oddmatics.uk)
 
 This project is under the Creative Commons Attribution 4.0 International licence.
 http://creativecommons.org/licenses/by/4.0/legalcode
