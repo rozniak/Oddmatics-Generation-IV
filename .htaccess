@@ -1,0 +1,32 @@
+#
+# .htaccess
+#
+# This source-code is part of the Oddmatics Generation IV website by Rory Fewell (rozniak) of Oddmatics:
+# <<https://oddmatics.uk>>
+# <<https://github.com/rozniak/Oddmatics-Generation-IV>>
+#
+# Sharing, editing and general licence term information can be found inside of the "LICENCE.MD" file that should be located in the project root.
+#
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} !^oddmatics\.uk
+RewriteRule (.*) https://oddmatics.uk/$1 [R=301,L] 
+
+Options -Indexes
+
+#ErrorDocument 403 /403.php
+#ErrorDocument 404 /404.php
+
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+
+<files *.html>
+    SetOutputFilter DEFLATE
+</files>
