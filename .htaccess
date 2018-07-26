@@ -9,8 +9,22 @@
 #
 
 RewriteEngine on
+
+# Enact redirect to oddmatics.uk host
+#
 RewriteCond %{HTTP_HOST} !^oddmatics\.uk
-RewriteRule (.*) https://oddmatics.uk/$1 [R=301,L] 
+RewriteRule (.*) https://oddmatics.uk/$1 [R=301,L]
+
+# If it's a static resource, don't redirect
+#
+RewriteCond %{REQUEST_FILENAME} ^.*\.(css|js|jpe?g|png|gif|ico|ttf|woff|svg|txt|pdf|exe|zip)$
+RewriteRule ^ - [L]
+
+# Redirect site sections to index.php
+#
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php?path=$1 [NC,L,QSA]
 
 Options -Indexes
 
