@@ -4,6 +4,8 @@
     <head>
         <title>Oddmatics</title>
 
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
         <link href="https://fonts.googleapis.com/css?family=Audiowide|Hammersmith+One|Nova+Square" rel="stylesheet">
 
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
